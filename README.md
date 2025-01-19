@@ -1,1 +1,1 @@
-# -study-RPG-2D
+# [study] RPG-2D

@@ -1,0 +1,16 @@
+Temp/
+Library/
+Assets/AssetStoreResources/
+ProjectSettings/
+obj/
+*.sln
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.vspscc
+
